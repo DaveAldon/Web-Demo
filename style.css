@@ -44,10 +44,6 @@ td img {
     background-color: lightgray;
 }
 
-.class {
-    blackground-color: lightgray;
-}
-
 #courseTable td:nth-child(odd) {
     text-align: center;
 }
