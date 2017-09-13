@@ -7,6 +7,10 @@ body {
     font-family: Times, medium, black;
 }
 
+#favorite {
+  list-style-type: lower-alpha;
+}
+
 #courseTable {
     border-style: solid;
     border-width: 2px;
@@ -55,6 +59,6 @@ td img {
     background-color: green;
 }
 
-footer img {
+#validbadge img {
     width: 5%;
 }
