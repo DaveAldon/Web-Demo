@@ -41,11 +41,11 @@ td img {
 }
 
 .links {
-
+    background-color: lightgray;
 }
 
 .class {
-  
+
 }
 
 #courseTable td:nth-child(odd) {
