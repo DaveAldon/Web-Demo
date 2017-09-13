@@ -8,7 +8,7 @@ body {
 }
 
 #favorite {
-  list-style-type: lower-alpha;
+  list-style: lower-alpha;
 }
 
 #courseTable {
@@ -42,6 +42,10 @@ td img {
 
 .best {
     font-style: italic;
+}
+
+.colors {
+  background-color: lightgrey;
 }
 
 .links {
