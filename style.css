@@ -45,7 +45,7 @@ td img {
 }
 
 .class {
-
+    blackground-color: lightgray;
 }
 
 #courseTable td:nth-child(odd) {
